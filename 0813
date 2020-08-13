@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>내가 좋아하는 음식</title></head>
+<body>
+<h3>내가 좋아하는 음식</h3>
+<hr>
+<ul>
+   <li>감자탕
+   <li>스파게티
+   <li>올레국수
+</ul>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>링크의 target 속성 활용</title></head>
+<body>
+<h3>링크의 target 속성 활용</h3>
+<hr>
+<ul>
+   <li><a href="http://www.w3.org" target="_blank">W3C(새 윈도우, _blank)</a>
+   <li><a href="http://www.etnews.com" target="_self">전자신문(현재 윈도우, _self)</a>
+   <li><a href="http://www.naver.com" target="_parent">네이버(부모 윈도우, _parent)</a>
+   <li><a href="http://www.mk.co.kr" target="_top">매일경제신문(브라우저 윈도우, _top)</a>
+</ul>
+</body>
+</html>
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>파일 다운로드</title></head>
+<body>
+<h3>친구들아! 여기서 다운받아!</h3>
+<hr>
+<ul>
+   <li><a href="media/Elvis.png" download>엘비스 이미지 다운로드</a>
+   <li><a href="media/chapter9.pdf" download>chapter9.pdf 다운로드</a>
+   <li><a href="media/EmbraceableYou.mp3" download>mp3 다운로드</a>
+   <li><a href="ex2-09.html" download>예제 2-9 HTML 파일 다운로드</a>
+   <li><a href="media/test.hwp" download>한글 파일 다운로드</a>
+</ul>
+</body>
+</html>
